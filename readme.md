@@ -1,7 +1,7 @@
 rancher-python
 ============
 
-python image based in rancher-base
+rancher-python image based in rancher-base
 
 To build
 
